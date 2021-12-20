@@ -9,3 +9,12 @@ yarn-error.log*
 
 # Development Environments
 .history/
+
+prisma
+src
+.github
+.vscode
+.all-contributorsrc
+.kodiak.toml
+dist/tests
+tests

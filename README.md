@@ -1,3 +1,5 @@
+A fork of prisma-relay-cursor-connection [with PR #366](https://github.com/devoxa/prisma-relay-cursor-connection/pull/366)
+
 <!-- Title -->
 <h1 align="center">
   prisma-relay-cursor-connection
